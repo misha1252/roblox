@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+h1 {
+  background-image: linear-gradient(aquamarine,white);
+  text-align: center;
+  box-shadow: 5px 5px 10px 0 blue ;
+  border-radius: ;
+}
+.ak{
+    background-image: radial-gradient(aquamarine,white);
+    text-align: center;
+    box-shadow: 7px 7px 15px 0 skyblue ;
+    border-radius:5px ;
+}
+.info{
+    background-image: linear-gradient(blue,#003C43);
+    text-align: center;
+    box-shadow: 7px 7px 15px 0 #401F71 ;
+    border-radius:7px ;
+}
+.truba{
+ background-image: linear-gradient(#222831,#003C43);
+    text-align: center;
+    box-shadow: 7px 7px 15px 0 #401F71 ;
+    border-radius:7px ;   
+}
+.trident {
+   background-image: linear-gradient(#5D0E41,#A0153E);
+    text-align: center;
+    box-shadow: 7px 7px 15px 0 #401F71 ;
+    border-radius:7px ; 
+}
+.stata {
+   background-image: linear-gradient(#E8751A,#EABE6C);
+    text-align: center;
+    box-shadow: 7px 7px 15px 0 #401F71 ;
+    border-radius:7px ; 
+}
+nav a{
+    margin: 80px;
+    font-size: 18px;
+    text-decoration: skyblue;
+    color:#AD88C6 ;
+    border: #6420AA;
+    border-radius: 6px;
+    background-color: #6420AA;
+}
+.fruit{
+    background-image:linear-gradient(#FFC700,#EABE6C);
+    text-align: center;
+    box-shadow: 7px 7px 15px 0 #F1F5A8 ;
+    border-radius:7px ;
+}
+.favwep:hover{
+   width: 300px;
+    transition: 2s ease-out;
+    
+}
+.druga {
+background-image:linear-gradient(#87A922,#114232);
+    text-align: center;
+    box-shadow: 7px 7px 15px 0 #F1F5A8 ;
+    border-radius:7px ;
+}
